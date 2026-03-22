@@ -2,7 +2,7 @@
 
 I'm Snikitha! I'm a computer science and data science student who spends most of her time building agentic AI systems and chasing nanoseconds in parallel code. Currently interested in & thinking about high-performance computing, autonomous intelligence & competitive programming.
 
-[linkedin](https://www.linkedin.com/in/snikitha-siddavatam-88094421a/) 
+[website](https://snikithasiddavatam.github.io/) | [linkedin](https://www.linkedin.com/in/snikitha-siddavatam-88094421a/) 
 <!--
 **snikithasiddavatam/snikithasiddavatam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
